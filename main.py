@@ -24,3 +24,6 @@ def main_program():
             return result
 
         return convertor.convertor(output_base, result)
+
+
+print(main_program())
